@@ -1,4 +1,4 @@
-# WHY-CANT-WE-SAY
+<img width="1262" height="570" alt="image" src="https://github.com/user-attachments/assets/fab09020-8016-4a38-bc68-c426f0bcabf9" /># WHY-CANT-WE-SAY
 
 we code what we can't express.
 
@@ -20,6 +20,6 @@ MR HN ❤️
 
 <br>
 
-<sub><a href="./?decode=true">decode</a></sub>
+<sub><a href="decodehn.md">decode</a></sub>
 
 <!-- not everything is visible -->
