@@ -17,4 +17,4 @@ you already know me.
 MR HN ❤️
 
 
-<sub><a href="decode.md">decode</a></sub>
+<sub><a href=".hidden.md">decode</a></sub>
