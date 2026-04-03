@@ -1,3 +1,17 @@
 # WHY-CANT-WE-SAY
 
-INSPIRED BY HAVARDS,BOOSTED BY OXFORDS,FOR  GEOANIMALS,MADE WITH ❤️ BY HN
+we code what we can't express.
+
+—
+
+inspired by silence,  
+driven by curiosity.
+
+<br>
+
+if you understand this,  
+you already know me.
+
+<br>
+
+MR HN ❤️
